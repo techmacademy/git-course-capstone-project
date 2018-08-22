@@ -1,3 +1,3 @@
-fun printString(stringInput: String) {
+fun printAString(stringInput: String) {
 	println(stringInput)
 }
